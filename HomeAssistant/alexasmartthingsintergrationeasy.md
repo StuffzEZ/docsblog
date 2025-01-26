@@ -14,7 +14,10 @@ This Method Does Not Use: AWS, Amazon Developer Console, Emulated Hue, Nabu Casa
 - A Physical Alexa Device (Or Alexa On A Phone)
 
 ## How To Setup
-The Steps On How To Set This Up Are Below. Video Guide Coming Soon! (Search For Home Assistant Smart Things If You Want To Watch Someone Else's Video - Its Fine!)
+The Steps On How To Set This Up Are Below. Want To Watch A Video? No Problem
+<video width="320" height="240" controls>
+  <source src="https://dl.dropboxusercontent.com/scl/fi/yoxfz5cg428cjhywr5ffz/Home-Assistant-Intergration.mp4?rlkey=nk0ov039a3okl86d3ghnnl3hh&e=1&st=rdq0an05&dl=0" type="video/mp4">
+</video>
 
 ## Information Sources
 - [Home Assistant Smartthings Intergration](https://www.home-assistant.io/integrations/smartthings/)
