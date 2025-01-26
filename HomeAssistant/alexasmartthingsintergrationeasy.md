@@ -1,7 +1,7 @@
 ---
-title: Home Assistant Alexa/Smartthings Intergration (Best Method)
+title: Assistant Intergration
 layout: default
-nav_order: 2
+parent: Home Assistant
 ---
 
 # How To Intergrate Home Assistant With Alexa/Smartthings Easily!
