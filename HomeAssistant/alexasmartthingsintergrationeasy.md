@@ -22,7 +22,7 @@ The Steps On How To Set This Up Are Below. Video Guide Coming Soon! (Search For 
 ### Getting The Token
 1) Go To Your [Tokens](https://account.smartthings.com/tokens")<br>
 2) Click Generate A New Token<br>
-3) Allow Access (Authorised Scopes) To All Devices, Installed Applications, Apps, Locations, Scenes And Schedules.v
+3) Allow Access (Authorised Scopes) To All Devices, Installed Applications, Apps, Locations, Scenes And Schedules.<br>
 4) Copy The Token<br>
 
 ### Before We Continue...
